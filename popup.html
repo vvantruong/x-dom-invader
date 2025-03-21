@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>X DOM Invader</title>
+    <style>
+      body { 
+        width: 300px; 
+        text-align: center; 
+        padding: 20px; 
+        background-color: rgba(0, 0, 0, 0.95);
+        color: white;
+        font-family: 'Arial', sans-serif;
+      }
+      h2 { 
+        font-size: 24px; 
+        margin-bottom: 20px; 
+        color: #ff4500; /* Red title */
+      }
+      .container {
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      }
+      p {
+        font-size: 14px;
+        line-height: 1.4;
+        margin-bottom: 15px;
+      }
+      button { 
+        background-color: #00ff00; /* Green button */
+        color: black;
+        border: none;
+        padding: 12px 24px;
+        font-size: 16px;
+        font-weight: bold;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: transform 0.1s, background-color 0.3s;
+      }
+      button:hover {
+        background-color: #00cc00;
+        transform: scale(1.05);
+      }
+      .step {
+        text-align: left;
+        margin-bottom: 10px;
+      }
+      .step-number {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background-color: #ff4500;
+        color: white;
+        text-align: center;
+        border-radius: 50%;
+        margin-right: 8px;
+        padding: 6px 5px 5px 5px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 10px;">
+      <img src="spaceship.png" style="width: 60px; height: 60px; margin-bottom: 10px;">
+      <h2>X DOM INVADER</h2>
+    </div>
+    <div class="container">
+      <p style="margin-top: 5px;">How to play:</p>
+      <div class="step"> Navigate to <a href="https://x.com/levelsio/status/1901660771505021314" target="_blank" style="color: #00ffff; text-decoration: underline;">https://x.com/levelsio/status/1901660771505021314</a></div>
+      <div class="step"> Click the START INVASION button</div>
+      <div class="step">Use arrow keys to move and spacebar to shoot</div>
+    </div>
+    <button id="startGame">START INVASION</button>
+    <script src="popup.js"></script>
+  </body>
+</html>
