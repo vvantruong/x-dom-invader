@@ -24,7 +24,7 @@ In Alien DOM Invader, you pilot a spaceship across any webpage, shooting at and 
 
 ### Installing from GitHub
 
-1. Visit the GitHub repository at [github.com/yourusername/alien-dom-invader](https://github.com/yourusername/alien-dom-invader)
+1. Visit the GitHub repository at [https://github.com/vvantruong/x-dom-invader](https://github.com/vvantruong/x-dom-invader)
 2. Click the green "Code" button and select "Download ZIP"
 3. Extract the ZIP file to a location on your computer
 
