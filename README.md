@@ -2,7 +2,7 @@
 
 Alien DOM Invader is an interactive Chrome extension game that turns any webpage into a battlefield. Control a spaceship and destroy DOM elements on any website, transforming your browsing experience into an exciting arcade game.
  
-[https://jmp.sh/s/ZHqjEdDzSnaXkuL4IFFi]
+Game Demo [https://jmp.sh/s/ZHqjEdDzSnaXkuL4IFFi]
 
 ## Game Description
 
@@ -44,14 +44,14 @@ In Alien DOM Invader, you pilot a spaceship across any webpage, shooting at and 
 5. Press the spacebar to shoot
 6. Press B to use your one-time Nuke ability
 7. Destroy as many elements as possible before time runs out
-8. Click the "?" button in the top right to view the game guide
+ 
 
 ### Controls
 
 - **Arrow Keys**: Move the spaceship
 - **Spacebar**: Shoot
 - **B Key**: Deploy Nuke (one-time use per game)
-- **Alt+D**: Toggle debug mode (shows targetable elements)
+ 
 
 ## Enemy Types
 
@@ -60,13 +60,12 @@ In Alien DOM Invader, you pilot a spaceship across any webpage, shooting at and 
 
 ## Development
 
-The game is built using vanilla JavaScript and utilizes the Chrome Extensions API to interact with web pages. It creates canvas elements for rendering the game and uses DOM manipulation to identify targetable elements.
+The game is built with Cursor AI using vanilla JavaScript and utilizes the Chrome Extensions API to interact with web pages. It creates canvas elements for rendering the game and uses DOM manipulation to identify targetable elements.
 
 ## Credits
 
-- Game concept and development: [Your Name]
-- Sound effects: [Source]
-- Spaceship image: [Source]
+- Game concept and development: [Vu Truong]
+ 
 
 ## License
 
