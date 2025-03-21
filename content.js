@@ -2500,7 +2500,7 @@ if (typeof window.alienGameInitialized !== "undefined" && window.alienGameInitia
         </div>
         <div style="text-align: left;">
           <div style="font-weight: bold; color: #ffff00;">Nuke (Press B)</div>
-          <div style="font-size: 12px;">Clear all elements on screen</div>
+          <div style="font-size: 12px;">Clear all elements on screen. Nukes are unpredicatable so use them wisely:)</div>
           <div style="font-size: 11px; color: #ff4500;">One-time use per game - use wisely!</div>
         </div>
       </div>
