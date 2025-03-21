@@ -1,8 +1,7 @@
 # Alien DOM Invader
 
 Alien DOM Invader is an interactive Chrome extension game that turns any webpage into a battlefield. Control a spaceship and destroy DOM elements on any website, transforming your browsing experience into an exciting arcade game.
-
-![Alien DOM Invader](spaceship.png)
+ 
 
 ## Game Description
 
